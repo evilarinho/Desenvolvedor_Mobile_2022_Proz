@@ -4,14 +4,13 @@
     ALUNO:  Edilson José de Carvalho Vilarinho Messias
     E-MAIL: ed.vilarinho@gmail.com
     AULA:   04
-    DATA:   12/08/2022
-  */
-/*
+    DATA:   11/08/2022
+
     Conversão Tempo
     1.Dado um tempo em minutos, converter para dias, horas e minutos,
       mostrando o resultado na tela. Um dia tem 1440 minutos, ao passo
       que 1 hora tem 60 minutos.    
-  */
+*/
 
 import 'dart:io';
 

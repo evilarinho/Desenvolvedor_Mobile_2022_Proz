@@ -4,13 +4,12 @@
     ALUNO:  Edilson José de Carvalho Vilarinho Messias
     E-MAIL: ed.vilarinho@gmail.com
     AULA:   04
-    DATA:   12/08/2022
-  */
-/*
+    DATA:   11/08/2022
+
     Conversão de temperatura
     1. Converter em Celsius para Fahrenheit. 
     A fórmula simplificada para conversão é: Fahrenheit = Celsius*1.8 + 32
-  */
+*/
 
 import 'dart:io';
 
@@ -21,8 +20,8 @@ void main(List<String> args) {
   double tempF = tempC * 1.8 + 32;
   print('''  
       =========================================
-      Temperatura em graus Celsius:     $tempC
-      Temperatura em graus Fahrenheit:  $tempF  
+      Temperatura em graus Celsius:     $tempC°
+      Temperatura em graus Fahrenheit:  $tempF° 
       =========================================
   ''');
 }
